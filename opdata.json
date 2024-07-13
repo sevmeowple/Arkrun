@@ -1,0 +1,3022 @@
+{
+  "1": [
+    {
+      "childcar": "本源术师",
+      "faction": "罗德岛",
+      "name": "妮芙",
+      "ori": "卡兹戴尔",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "战术家",
+      "faction": "罗德岛",
+      "name": "渡桥",
+      "ori": "卡兹戴尔",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "重剑手",
+      "faction": "阿戈尔-深海猎人",
+      "name": "乌尔比安",
+      "ori": "阿戈尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "削弱者",
+      "faction": "阿戈尔",
+      "name": "海霓",
+      "ori": "阿戈尔",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "哨戒铁卫",
+      "faction": "阿戈尔",
+      "name": "深巡",
+      "ori": "阿戈尔",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "咒愈师",
+      "faction": "罗德岛",
+      "name": "阿米娅(医疗)",
+      "ori": "雷姆必拓",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "卡特斯/奇美拉"
+    },
+    {
+      "childcar": "投掷手",
+      "faction": "巴别塔",
+      "name": "维什戴尔",
+      "ori": "卡兹戴尔",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "罗德岛-罗德岛-精英干员",
+      "name": "逻各斯",
+      "ori": "卡兹戴尔",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "吟游者",
+      "faction": "罗德岛",
+      "name": "魔王",
+      "ori": "卡兹戴尔",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "罗德岛",
+      "name": "历阵锐枪芬",
+      "ori": "卡西米尔",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "巫役",
+      "faction": "罗德岛",
+      "name": "PhonoR-0",
+      "ori": "",
+      "profession": "辅助",
+      "rarity": "0",
+      "ray": ""
+    },
+    {
+      "childcar": "伏击客",
+      "faction": "罗德岛-S.W.E.E.P.",
+      "name": "阿斯卡纶",
+      "ori": "卡兹戴尔",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "轰击术师",
+      "faction": "叙拉古",
+      "name": "阿罗玛",
+      "ori": "叙拉古",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "撼地者",
+      "faction": "罗德岛",
+      "name": "奥达",
+      "ori": "卡兹戴尔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "不屈者",
+      "faction": "玻利瓦尔",
+      "name": "露托",
+      "ori": "玻利瓦尔",
+      "profession": "重装",
+      "rarity": "3",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "陷阱师",
+      "faction": "彩虹小队",
+      "name": "艾拉",
+      "ori": "未知",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "未知"
+    },
+    {
+      "childcar": "教官",
+      "faction": "彩虹小队",
+      "name": "医生",
+      "ori": "未知",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "未知"
+    },
+    {
+      "childcar": "傀儡师",
+      "faction": "彩虹小队",
+      "name": "双月",
+      "ori": "未知",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "未知"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "彩虹小队",
+      "name": "导火索",
+      "ori": "未知",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "未知"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "萨尔贡",
+      "name": "红隼",
+      "ori": "萨尔贡",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "炎-炎-岁",
+      "name": "黍",
+      "ori": "炎",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "武者",
+      "faction": "炎",
+      "name": "左乐",
+      "ori": "炎",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "炎",
+      "name": "小满",
+      "ori": "炎",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "执旗手",
+      "faction": "炎",
+      "name": "万顷",
+      "ori": "炎",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "猎手",
+      "faction": "雷姆必拓",
+      "name": "莱伊",
+      "ori": "雷姆必拓",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "本源术师",
+      "faction": "雷姆必拓",
+      "name": "温米",
+      "ori": "雷姆必拓",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "剑豪",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "锏",
+      "ori": "莱塔尼亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "领主",
+      "faction": "乌萨斯-乌萨斯学生自治团",
+      "name": "烈夏",
+      "ori": "乌萨斯",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "行医",
+      "faction": "维多利亚",
+      "name": "哈洛德",
+      "ori": "维多利亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "巫役",
+      "faction": "拉特兰",
+      "name": "塑心",
+      "ori": "拉特兰",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "术战者",
+      "faction": "莱塔尼亚",
+      "name": "薇薇安娜",
+      "ori": "莱塔尼亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "莱塔尼亚",
+      "name": "止颂",
+      "ori": "莱塔尼亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "莱塔尼亚",
+      "name": "深律",
+      "ori": "莱塔尼亚",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "本源术师",
+      "faction": "莱塔尼亚",
+      "name": "折光",
+      "ori": "莱塔尼亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "回环射手",
+      "faction": "玻利瓦尔",
+      "name": "跃跃",
+      "ori": "玻利瓦尔",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "重剑手",
+      "faction": "巴别塔",
+      "name": "赫德雷",
+      "ori": "卡兹戴尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "咒愈师",
+      "faction": "维多利亚",
+      "name": "刺玫",
+      "ori": "维多利亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "秘术师",
+      "faction": "维多利亚",
+      "name": "戴菲恩",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "傀儡师",
+      "faction": "维多利亚",
+      "name": "维荻",
+      "ori": "维多利亚",
+      "profession": "特种",
+      "rarity": "3",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "哨戒铁卫",
+      "faction": "哥伦比亚-黑钢国际",
+      "name": "涤火杰西卡",
+      "ori": "维多利亚",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "钩索师",
+      "faction": "哥伦比亚-黑钢国际",
+      "name": "杏仁",
+      "ori": "哥伦比亚",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "猎手",
+      "faction": "哥伦比亚",
+      "name": "冰酿",
+      "ori": "哥伦比亚",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "行医",
+      "faction": "莱塔尼亚",
+      "name": "纯烬艾雅法拉",
+      "ori": "莱塔尼亚",
+      "profession": "医疗",
+      "rarity": "5",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "行商",
+      "faction": "炎-龙门",
+      "name": "琳琅诗怀雅",
+      "ori": "龙门",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "哥伦比亚-汐斯塔",
+      "name": "青枳",
+      "ori": "汐斯塔",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "教官",
+      "faction": "哥伦比亚-汐斯塔",
+      "name": "苍苔",
+      "ori": "汐斯塔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "巫役",
+      "faction": "萨米",
+      "name": "凛视",
+      "ori": "萨米",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "攻城手",
+      "faction": "萨米",
+      "name": "提丰",
+      "ori": "萨米",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "萨米",
+      "name": "寒檀",
+      "ori": "萨米",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "收割者",
+      "faction": "拉特兰",
+      "name": "圣约送葬人",
+      "ori": "拉特兰",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "怪杰",
+      "faction": "拉特兰",
+      "name": "空构",
+      "ori": "拉特兰",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "拉特兰",
+      "name": "隐现",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "罗德岛",
+      "name": "Friston-3",
+      "ori": "",
+      "profession": "重装",
+      "rarity": "0",
+      "ray": ""
+    },
+    {
+      "childcar": "战术家",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "缪尔赛思",
+      "ori": "未公开",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "精灵"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "哥伦比亚",
+      "name": "霍尔海雅",
+      "ori": "哥伦比亚",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "护佑者",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "淬羽赫默",
+      "ori": "哥伦比亚",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "重射手",
+      "faction": "哥伦比亚",
+      "name": "玫拉",
+      "ori": "哥伦比亚",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "情报官",
+      "faction": "巴别塔",
+      "name": "伊内丝",
+      "ori": "卡兹戴尔",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "决战者",
+      "faction": "雷姆必拓",
+      "name": "洋灰",
+      "ori": "雷姆必拓",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "维多利亚-格拉斯哥帮",
+      "name": "摩根",
+      "ori": "维多利亚",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "收割者",
+      "faction": "罗德岛",
+      "name": "休谟斯",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "吟游者",
+      "faction": "罗德岛",
+      "name": "U-Official",
+      "ori": "未公开",
+      "profession": "辅助",
+      "rarity": "0",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "罗德岛-行动组A4",
+      "name": "麒麟R夜刀",
+      "ori": "东国",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "鬼"
+    },
+    {
+      "childcar": "武者",
+      "faction": "罗德岛-行动组A4",
+      "name": "火龙S黑角",
+      "ori": "东国",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "鬼"
+    },
+    {
+      "childcar": "投掷手",
+      "faction": "罗德岛",
+      "name": "泰拉大陆调查团",
+      "ori": "未知",
+      "profession": "狙击",
+      "rarity": "0",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "领主",
+      "faction": "炎",
+      "name": "仇白",
+      "ori": "炎",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "重剑手",
+      "faction": "炎",
+      "name": "铎铃",
+      "ori": "炎",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "炎-炎-岁",
+      "name": "重岳",
+      "ori": "炎",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "阵法术师",
+      "faction": "炎-龙门",
+      "name": "林",
+      "ori": "龙门",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "要塞",
+      "faction": "雷姆必拓",
+      "name": "火哨",
+      "ori": "雷姆必拓",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "炎",
+      "name": "截云",
+      "ori": "炎",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "阿纳萨"
+    },
+    {
+      "childcar": "咒愈师",
+      "faction": "维多利亚-深池",
+      "name": "焰影苇草",
+      "ori": "维多利亚",
+      "profession": "医疗",
+      "rarity": "5",
+      "ray": "德拉克"
+    },
+    {
+      "childcar": "秘术师",
+      "faction": "维多利亚-深池",
+      "name": "和弦",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "情报官",
+      "faction": "维多利亚",
+      "name": "谜图",
+      "ori": "维多利亚",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "炎-龙门-企鹅物流",
+      "name": "缄默德克萨斯",
+      "ori": "哥伦比亚",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "不屈者",
+      "faction": "叙拉古",
+      "name": "斥罪",
+      "ori": "叙拉古",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "战术家",
+      "faction": "叙拉古",
+      "name": "伺夜",
+      "ori": "叙拉古",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "神射手",
+      "faction": "叙拉古",
+      "name": "子月",
+      "ori": "叙拉古",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "萨米",
+      "name": "雪绒",
+      "ori": "萨米",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "重剑手",
+      "faction": "哥伦比亚",
+      "name": "石英",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "工匠",
+      "faction": "维多利亚",
+      "name": "白铁",
+      "ori": "维多利亚",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "链愈师",
+      "faction": "罗德岛",
+      "name": "明椒",
+      "ori": "哥伦比亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "维多利亚-格拉斯哥帮",
+      "name": "达格达",
+      "ori": "维多利亚",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "攻城手",
+      "faction": "萨尔贡",
+      "name": "铅踝",
+      "ori": "萨尔贡",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "收割者",
+      "faction": "伊比利亚",
+      "name": "海沫",
+      "ori": "伊比利亚",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "领主",
+      "faction": "炎",
+      "name": "罗小黑",
+      "ori": "未知",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "解放者",
+      "faction": "卡西米尔",
+      "name": "玛恩纳",
+      "ori": "卡西米尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "卡西米尔",
+      "name": "但书",
+      "ori": "卡西米尔",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "罗德岛",
+      "name": "百炼嘉维尔",
+      "ori": "萨尔贡",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "阿达克利斯"
+    },
+    {
+      "childcar": "重射手",
+      "faction": "罗德岛",
+      "name": "鸿雪",
+      "ori": "乌萨斯",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "情报官",
+      "faction": "罗德岛",
+      "name": "晓歌",
+      "ori": "玻利瓦尔",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "驭械术师",
+      "faction": "萨尔贡",
+      "name": "至简",
+      "ori": "杜林",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "杜林"
+    },
+    {
+      "childcar": "陷阱师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "多萝西",
+      "ori": "哥伦比亚",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "投掷手",
+      "faction": "罗德岛",
+      "name": "承曦格雷伊",
+      "ori": "玻利瓦尔",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "链术师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "星源",
+      "ori": "哥伦比亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "秘术师",
+      "faction": "莱塔尼亚",
+      "name": "黑键",
+      "ori": "莱塔尼亚",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "咒愈师",
+      "faction": "罗德岛",
+      "name": "濯尘芙蓉",
+      "ori": "维多利亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "驭法铁卫",
+      "faction": "莱塔尼亚",
+      "name": "车尔尼",
+      "ori": "莱塔尼亚",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "攻城手",
+      "faction": "米诺斯",
+      "name": "埃拉托",
+      "ori": "米诺斯",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "傀儡师",
+      "faction": "阿戈尔-深海猎人",
+      "name": "归溟幽灵鲨",
+      "ori": "阿戈尔",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "剑豪",
+      "faction": "伊比利亚",
+      "name": "艾丽妮",
+      "ori": "伊比利亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "疗养师",
+      "faction": "伊比利亚",
+      "name": "流明",
+      "ori": "伊比利亚",
+      "profession": "医疗",
+      "rarity": "5",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "工匠",
+      "faction": "哥伦比亚",
+      "name": "掠风",
+      "ori": "哥伦比亚",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "要塞",
+      "faction": "维多利亚",
+      "name": "号角",
+      "ori": "维多利亚",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "驭械术师",
+      "faction": "维多利亚",
+      "name": "洛洛",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "吟游者",
+      "faction": "维多利亚",
+      "name": "海蒂",
+      "ori": "维多利亚",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "行医",
+      "faction": "罗德岛",
+      "name": "褐果",
+      "ori": "未公开",
+      "profession": "医疗",
+      "rarity": "3",
+      "ray": "杜林"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "拉特兰",
+      "name": "菲亚梅塔",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "傀儡师",
+      "faction": "东",
+      "name": "风丸",
+      "ori": "东国",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "推击手",
+      "faction": "拉特兰",
+      "name": "见行者",
+      "ori": "拉特兰",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "驭械术师",
+      "faction": "维多利亚",
+      "name": "澄闪",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "护佑者",
+      "faction": "罗德岛",
+      "name": "夏栎",
+      "ori": "维多利亚",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "召唤师",
+      "faction": "炎-炎-岁",
+      "name": "令",
+      "ori": "炎",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "行商",
+      "faction": "炎-龙门-鲤氏侦探事务所",
+      "name": "老鲤",
+      "ori": "炎",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "龙"
+    },
+    {
+      "childcar": "战术家",
+      "faction": "雷姆必拓",
+      "name": "夜半",
+      "ori": "雷姆必拓",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "萨弗拉"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "罗德岛",
+      "name": "寒芒克洛丝",
+      "ori": "雷姆必拓",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "护佑者",
+      "faction": "炎",
+      "name": "九色鹿",
+      "ori": "炎",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "驭法铁卫",
+      "faction": "维多利亚",
+      "name": "暮落",
+      "ori": "维多利亚",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "削弱者",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "灵知",
+      "ori": "谢拉格",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "决战者",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "极光",
+      "ori": "谢拉格",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "驭械术师",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "耶拉",
+      "ori": "谢拉格",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "卡西米尔",
+      "name": "耀骑士临光",
+      "ori": "卡西米尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "卡西米尔-红松骑士团",
+      "name": "焰尾",
+      "ori": "卡西米尔",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "轰击术师",
+      "faction": "哥伦比亚",
+      "name": "蚀清",
+      "ori": "哥伦比亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "卡西米尔-红松骑士团",
+      "name": "野鬃",
+      "ori": "卡西米尔",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "行医",
+      "faction": "雷姆必拓",
+      "name": "蜜莓",
+      "ori": "雷姆必拓",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "链术师",
+      "faction": "哥伦比亚",
+      "name": "布丁",
+      "ori": "哥伦比亚",
+      "profession": "术师",
+      "rarity": "3",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "卡西米尔-红松骑士团",
+      "name": "正义骑士号",
+      "ori": "",
+      "profession": "狙击",
+      "rarity": "0",
+      "ray": ""
+    },
+    {
+      "childcar": "神射手",
+      "faction": "卡西米尔-红松骑士团",
+      "name": "远牙",
+      "ori": "卡西米尔",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "要塞",
+      "faction": "卡西米尔-红松骑士团",
+      "name": "灰毫",
+      "ori": "卡西米尔",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "执旗手",
+      "faction": "维多利亚",
+      "name": "琴柳",
+      "ori": "维多利亚",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "行医",
+      "faction": "炎",
+      "name": "桑葚",
+      "ori": "炎",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "工匠",
+      "faction": "哥伦比亚",
+      "name": "罗比菈塔",
+      "ori": "哥伦比亚",
+      "profession": "辅助",
+      "rarity": "3",
+      "ray": "阿纳缇"
+    },
+    {
+      "childcar": "散射手",
+      "faction": "罗德岛",
+      "name": "假日威龙陈",
+      "ori": "龙门",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "龙"
+    },
+    {
+      "childcar": "伏击客",
+      "faction": "东",
+      "name": "水月",
+      "ori": "东国",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "收割者",
+      "faction": "玻利瓦尔",
+      "name": "羽毛笔",
+      "ori": "玻利瓦尔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "解放者",
+      "faction": "玻利瓦尔",
+      "name": "龙舌兰",
+      "ori": "玻利瓦尔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "教官",
+      "faction": "米诺斯",
+      "name": "帕拉斯",
+      "ori": "米诺斯",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "阵法术师",
+      "faction": "莱塔尼亚",
+      "name": "卡涅利安",
+      "ori": "萨尔贡",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "伏击客",
+      "faction": "东",
+      "name": "绮良",
+      "ori": "东国",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "傀儡师",
+      "faction": "维多利亚",
+      "name": "贝娜",
+      "ori": "维多利亚",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "秘术师",
+      "faction": "伊比利亚",
+      "name": "深靛",
+      "ori": "伊比利亚",
+      "profession": "术师",
+      "rarity": "3",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "吟游者",
+      "faction": "阿戈尔",
+      "name": "浊心斯卡蒂",
+      "ori": "阿戈尔",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "凯尔希",
+      "ori": "罗德岛",
+      "profession": "医疗",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "钩索师",
+      "faction": "阿戈尔-深海猎人",
+      "name": "歌蕾蒂娅",
+      "ori": "阿戈尔",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "武者",
+      "faction": "东",
+      "name": "赤冬",
+      "ori": "东国",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "链术师",
+      "faction": "萨尔贡",
+      "name": "异客",
+      "ori": "哥伦比亚",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "攻城手",
+      "faction": "维多利亚",
+      "name": "熔泉",
+      "ori": "维多利亚",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "罗德岛",
+      "name": "暴雨",
+      "ori": "萨尔贡",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "彩虹小队",
+      "name": "灰烬",
+      "ori": "未知",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "未知"
+    },
+    {
+      "childcar": "陷阱师",
+      "faction": "彩虹小队",
+      "name": "霜华",
+      "ori": "未知",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "未知"
+    },
+    {
+      "childcar": "哨戒铁卫",
+      "faction": "彩虹小队",
+      "name": "闪击",
+      "ori": "未知",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "未知"
+    },
+    {
+      "childcar": "剑豪",
+      "faction": "彩虹小队",
+      "name": "战车",
+      "ori": "未知",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "未知"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "炎-炎-岁",
+      "name": "夕",
+      "ori": "炎",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "东",
+      "name": "嵯峨",
+      "ori": "东国",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "行商",
+      "faction": "炎",
+      "name": "乌有",
+      "ori": "炎",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "罗德岛",
+      "name": "炎狱炎熔",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "医师",
+      "faction": "萨尔贡",
+      "name": "图耶",
+      "ori": "萨尔贡",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "拉特兰",
+      "name": "空弦",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "秘术师",
+      "faction": "维多利亚",
+      "name": "爱丽丝",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "战术家",
+      "faction": "哥伦比亚",
+      "name": "豆苗",
+      "ori": "哥伦比亚",
+      "profession": "先锋",
+      "rarity": "3",
+      "ray": "瑞柏巴"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "哥伦比亚",
+      "name": "山",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "哥伦比亚",
+      "name": "卡夫卡",
+      "ori": "哥伦比亚",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "陷阱师",
+      "faction": "哥伦比亚",
+      "name": "罗宾",
+      "ori": "哥伦比亚",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "阿纳缇"
+    },
+    {
+      "childcar": "散射手",
+      "faction": "哥伦比亚",
+      "name": "松果",
+      "ori": "哥伦比亚",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "术战者",
+      "faction": "罗德岛",
+      "name": "阿米娅(近卫)",
+      "ori": "雷姆必拓",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "卡特斯/奇美拉"
+    },
+    {
+      "childcar": "投掷手",
+      "faction": "罗德岛-罗德岛-精英干员",
+      "name": "迷迭香",
+      "ori": "哥伦比亚",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "不屈者",
+      "faction": "罗德岛",
+      "name": "泥岩",
+      "ori": "卡兹戴尔",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "疗养师",
+      "faction": "伊比利亚",
+      "name": "絮雨",
+      "ori": "伊比利亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "哥伦比亚",
+      "name": "杰克",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "卡西米尔",
+      "name": "瑕光",
+      "ori": "卡西米尔",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "散射手",
+      "faction": "叙拉古-贾维团伙",
+      "name": "奥斯塔",
+      "ori": "叙拉古",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "教官",
+      "faction": "卡西米尔",
+      "name": "鞭刃",
+      "ori": "卡西米尔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "萨尔贡",
+      "name": "泡泡",
+      "ori": "萨尔贡",
+      "profession": "重装",
+      "rarity": "3",
+      "ray": "塞拉托"
+    },
+    {
+      "childcar": "术战者",
+      "faction": "罗德岛",
+      "name": "史尔特尔",
+      "ori": "不明",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "雷姆必拓",
+      "name": "四月",
+      "ori": "雷姆必拓",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "阵法术师",
+      "faction": "维多利亚",
+      "name": "薄绿",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "领主",
+      "faction": "拉特兰",
+      "name": "芳汀",
+      "ori": "拉特兰",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "决战者",
+      "faction": "萨尔贡",
+      "name": "森蚺",
+      "ori": "萨尔贡",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "斐迪亚"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "萨尔贡",
+      "name": "燧石",
+      "ori": "萨尔贡",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "萨尔贡",
+      "name": "特米米",
+      "ori": "萨尔贡",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "阿达克利斯"
+    },
+    {
+      "childcar": "重射手",
+      "faction": "哥伦比亚",
+      "name": "酸糖",
+      "ori": "哥伦比亚",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "领主",
+      "faction": "伊比利亚",
+      "name": "棘刺",
+      "ori": "伊比利亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "神射手",
+      "faction": "阿戈尔-深海猎人",
+      "name": "安哲拉",
+      "ori": "伊比利亚",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "行商",
+      "faction": "炎-龙门",
+      "name": "孑",
+      "ori": "龙门",
+      "profession": "特种",
+      "rarity": "3",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "叙拉古-贾维团伙",
+      "name": "贾维",
+      "ori": "叙拉古",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "阵法术师",
+      "faction": "萨尔贡",
+      "name": "蜜蜡",
+      "ori": "萨尔贡",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "召唤师",
+      "faction": "萨尔贡",
+      "name": "稀音",
+      "ori": "萨尔贡",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "皮洛萨"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "叙拉古",
+      "name": "铃兰",
+      "ori": "东国",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "领主",
+      "faction": "雷姆必拓",
+      "name": "断崖",
+      "ori": "雷姆必拓",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "亚叶",
+      "ori": "乌萨斯",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "驭械术师",
+      "faction": "罗德岛",
+      "name": "卡达",
+      "ori": "未公开",
+      "profession": "术师",
+      "rarity": "3",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "攻城手",
+      "faction": "乌萨斯-乌萨斯学生自治团",
+      "name": "早露",
+      "ori": "乌萨斯",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "雷姆必拓",
+      "name": "莱恩哈特",
+      "ori": "雷姆必拓",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "乌萨斯",
+      "name": "苦艾",
+      "ori": "乌萨斯",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "罗德岛",
+      "name": "波登可",
+      "ori": "玻利瓦尔",
+      "profession": "辅助",
+      "rarity": "3",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "护佑者",
+      "faction": "东",
+      "name": "月禾",
+      "ori": "东国",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "驭法铁卫",
+      "faction": "雷姆必拓",
+      "name": "石棉",
+      "ori": "雷姆必拓",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "萨弗拉"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "巴别塔",
+      "name": "W",
+      "ori": "卡兹戴尔",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "推击手",
+      "faction": "罗德岛",
+      "name": "温蒂",
+      "ori": "伊比利亚",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "阿戈尔"
+    }
+  ],
+
+  "2": [
+    {
+      "childcar": "执旗手",
+      "faction": "罗德岛",
+      "name": "极境",
+      "ori": "伊比利亚",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "罗德岛",
+      "name": "THRM-EX",
+      "ori": "",
+      "profession": "特种",
+      "rarity": "0",
+      "ray": ""
+    },
+    {
+      "childcar": "处决者",
+      "faction": "维多利亚",
+      "name": "傀影",
+      "ori": "维多利亚",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "削弱者",
+      "faction": "叙拉古",
+      "name": "巫恋",
+      "ori": "叙拉古",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "术战者",
+      "faction": "米诺斯",
+      "name": "铸铁",
+      "ori": "米诺斯",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "剑豪",
+      "faction": "哥伦比亚",
+      "name": "刻刀",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "米诺斯",
+      "name": "断罪者",
+      "ori": "米诺斯",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "未知（疑似黎博利）"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "维多利亚",
+      "name": "风笛",
+      "ori": "维多利亚",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "萨尔贡",
+      "name": "慑砂",
+      "ori": "萨尔贡",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "剑豪",
+      "faction": "萨米",
+      "name": "柏喙",
+      "ori": "萨米",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "武者",
+      "faction": "东",
+      "name": "宴",
+      "ori": "东国",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "不明"
+    },
+    {
+      "childcar": "疗养师",
+      "faction": "炎",
+      "name": "清流",
+      "ori": "炎",
+      "profession": "医疗",
+      "rarity": "3",
+      "ray": "阿戈尔"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "罗德岛",
+      "name": "刻俄柏",
+      "ori": "玻利瓦尔",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "链术师",
+      "faction": "炎",
+      "name": "惊蛰",
+      "ori": "炎",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "麒麟"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "炎-炎-岁",
+      "name": "年",
+      "ori": "炎",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "怪杰",
+      "faction": "炎-龙门-鲤氏侦探事务所",
+      "name": "阿",
+      "ori": "龙门",
+      "profession": "特种",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "炎-龙门-鲤氏侦探事务所",
+      "name": "吽",
+      "ori": "龙门",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "钩索师",
+      "faction": "炎-龙门",
+      "name": "雪雉",
+      "ori": "龙门",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "罗德岛-罗德岛-精英干员",
+      "name": "煌",
+      "ori": "维多利亚",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "罗德岛",
+      "name": "灰喉",
+      "ori": "未公开",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "神射手",
+      "faction": "拉特兰",
+      "name": "安比尔",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "叙拉古-贾维团伙",
+      "name": "布洛卡",
+      "ori": "叙拉古",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "维多利亚",
+      "name": "苇草",
+      "ori": "维多利亚",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "德拉克"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "拉特兰",
+      "name": "莫斯提马",
+      "ori": "拉特兰",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "炎-龙门-鲤氏侦探事务所",
+      "name": "槐琥",
+      "ori": "炎",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "炎-龙门",
+      "name": "拜松",
+      "ori": "龙门",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "维多利亚",
+      "name": "梅",
+      "ori": "维多利亚",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "群愈师",
+      "faction": "维多利亚",
+      "name": "微风",
+      "ori": "维多利亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "伏击客",
+      "faction": "罗德岛",
+      "name": "伊桑",
+      "ori": "未公开",
+      "profession": "特种",
+      "rarity": "3",
+      "ray": "萨弗拉"
+    },
+    {
+      "childcar": "召唤师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "麦哲伦",
+      "ori": "哥伦比亚",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "散射手",
+      "faction": "拉特兰",
+      "name": "送葬人",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "罗德岛",
+      "name": "炎客",
+      "ori": "卡兹戴尔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "叙拉古",
+      "name": "红云",
+      "ori": "不明",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "驭法铁卫",
+      "faction": "罗德岛",
+      "name": "坚雷",
+      "ori": "哥伦比亚",
+      "profession": "重装",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "武者",
+      "faction": "乌萨斯",
+      "name": "赫拉格",
+      "ori": "乌萨斯",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "术战者",
+      "faction": "哥伦比亚",
+      "name": "星极",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "执旗手",
+      "faction": "罗德岛",
+      "name": "桃金娘",
+      "ori": "未公开",
+      "profession": "先锋",
+      "rarity": "3",
+      "ray": "杜林"
+    },
+    {
+      "childcar": "重射手",
+      "faction": "哥伦比亚-汐斯塔",
+      "name": "黑",
+      "ori": "雷姆必拓",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "伊比利亚",
+      "name": "格劳克斯",
+      "ori": "阿戈尔地区",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "疗养师",
+      "faction": "哥伦比亚-汐斯塔",
+      "name": "锡兰",
+      "ori": "汐斯塔（独立城邦）",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "苏苏洛",
+      "ori": "叙拉古",
+      "profession": "医疗",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "剑豪",
+      "faction": "炎-龙门-龙门近卫局",
+      "name": "陈",
+      "ori": "龙门",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "龙"
+    },
+    {
+      "childcar": "教官",
+      "faction": "炎-龙门-龙门近卫局",
+      "name": "诗怀雅",
+      "ori": "龙门",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "玻利瓦尔",
+      "name": "格雷伊",
+      "ori": "玻利瓦尔",
+      "profession": "术师",
+      "rarity": "3",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "罗德岛-行动预备组A6",
+      "name": "斑点",
+      "ori": "萨尔贡",
+      "profession": "重装",
+      "rarity": "2",
+      "ray": "瑞柏巴"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "罗德岛-行动预备组A6",
+      "name": "泡普卡",
+      "ori": "雷姆必拓",
+      "profession": "近卫",
+      "rarity": "2",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "阿戈尔-深海猎人",
+      "name": "斯卡蒂",
+      "ori": "阿戈尔",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "维多利亚",
+      "name": "格拉尼",
+      "ori": "维多利亚",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "维多利亚",
+      "name": "夜魔",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "乌萨斯",
+      "name": "猎蜂",
+      "ori": "乌萨斯",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "领主",
+      "faction": "罗德岛-行动预备组A6",
+      "name": "月见夜",
+      "ori": "东国",
+      "profession": "近卫",
+      "rarity": "2",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "罗德岛-行动预备组A6",
+      "name": "空爆",
+      "ori": "卡西米尔",
+      "profession": "狙击",
+      "rarity": "2",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "雷姆必拓",
+      "name": "暴行",
+      "ori": "雷姆必拓",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "领主",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "银灰",
+      "ori": "谢拉格",
+      "profession": "近卫",
+      "rarity": "5",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "塞雷娅",
+      "ori": "哥伦比亚",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "炎-龙门-龙门近卫局",
+      "name": "星熊",
+      "ori": "东国",
+      "profession": "重装",
+      "rarity": "5",
+      "ray": "鬼"
+    },
+    {
+      "childcar": "群愈师",
+      "faction": "使徒",
+      "name": "夜莺",
+      "ori": "卡兹戴尔",
+      "profession": "医疗",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "医师",
+      "faction": "使徒",
+      "name": "闪灵",
+      "ori": "卡兹戴尔",
+      "profession": "医疗",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "叙拉古",
+      "name": "安洁莉娜",
+      "ori": "叙拉古",
+      "profession": "辅助",
+      "rarity": "5",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "莱塔尼亚",
+      "name": "艾雅法拉",
+      "ori": "莱塔尼亚",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "轰击术师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "伊芙利特",
+      "ori": "未公开",
+      "profession": "术师",
+      "rarity": "5",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "维多利亚-格拉斯哥帮",
+      "name": "推进之王",
+      "ori": "维多利亚",
+      "profession": "先锋",
+      "rarity": "5",
+      "ray": "阿斯兰"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "炎-龙门-企鹅物流",
+      "name": "能天使",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "5",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "推击手",
+      "faction": "炎-龙门",
+      "name": "食铁兽",
+      "ori": "炎",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "伏击客",
+      "faction": "萨尔贡",
+      "name": "狮蝎",
+      "ori": "萨尔贡",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "曼提柯"
+    },
+    {
+      "childcar": "吟游者",
+      "faction": "炎-龙门-企鹅物流",
+      "name": "空",
+      "ori": "因经纪公司要求不公开",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "因经纪公司要求不公开"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "乌萨斯-乌萨斯学生自治团",
+      "name": "真理",
+      "ori": "乌萨斯",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "削弱者",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "初雪",
+      "ori": "谢拉格",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "钩索师",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "崖心",
+      "ori": "谢拉格",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "神射手",
+      "faction": "罗德岛",
+      "name": "守林人",
+      "ori": "未公开",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "重射手",
+      "faction": "叙拉古",
+      "name": "普罗旺斯",
+      "ori": "叙拉古",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "不屈者",
+      "faction": "米诺斯",
+      "name": "火神",
+      "ori": "米诺斯",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "炎-龙门-企鹅物流",
+      "name": "可颂",
+      "ori": "米诺斯",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "哨戒铁卫",
+      "faction": "哥伦比亚-黑钢国际",
+      "name": "雷蛇",
+      "ori": "瓦伊凡",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "罗德岛-S.W.E.E.P.",
+      "name": "红",
+      "ori": "未公开",
+      "profession": "特种",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "使徒",
+      "name": "临光",
+      "ori": "卡西米尔",
+      "profession": "重装",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "华法琳",
+      "ori": "卡兹戴尔",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "医师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "赫默",
+      "ori": "哥伦比亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "召唤师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "梅尔",
+      "ori": "哥伦比亚",
+      "profession": "辅助",
+      "rarity": "4",
+      "ray": "阿纳缇"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "维多利亚",
+      "name": "天火",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "罗德岛",
+      "name": "阿米娅",
+      "ori": "雷姆必拓",
+      "profession": "术师",
+      "rarity": "4",
+      "ray": "卡特斯/奇美拉"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "罗德岛",
+      "name": "陨星",
+      "ori": "卡兹戴尔",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "卡西米尔",
+      "name": "白金",
+      "ori": "卡西米尔",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "伊比利亚",
+      "name": "蓝毒",
+      "ori": "未公开",
+      "profession": "狙击",
+      "rarity": "4",
+      "ray": "安努拉"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "阿戈尔-深海猎人",
+      "name": "幽灵鲨",
+      "ori": "阿戈尔",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "领主",
+      "faction": "叙拉古",
+      "name": "拉普兰德",
+      "ori": "叙拉古",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "斗士",
+      "faction": "维多利亚-格拉斯哥帮",
+      "name": "因陀罗",
+      "ori": "不明",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "哥伦比亚-黑钢国际",
+      "name": "芙兰卡",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "4",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "炎-龙门-企鹅物流",
+      "name": "德克萨斯",
+      "ori": "哥伦比亚",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "鲁珀"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "乌萨斯-乌萨斯学生自治团",
+      "name": "凛冬",
+      "ori": "乌萨斯",
+      "profession": "先锋",
+      "rarity": "4",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "群愈师",
+      "faction": "哥伦比亚-莱茵生命",
+      "name": "白面鸮",
+      "ori": "哥伦比亚",
+      "profession": "医疗",
+      "rarity": "4",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "推击手",
+      "faction": "炎-龙门",
+      "name": "阿消",
+      "ori": "龙门",
+      "profession": "特种",
+      "rarity": "3",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "莱塔尼亚",
+      "name": "地灵",
+      "ori": "莱塔尼亚",
+      "profession": "辅助",
+      "rarity": "3",
+      "ray": "卡普里尼"
+    },
+    {
+      "childcar": "召唤师",
+      "faction": "阿戈尔",
+      "name": "深海色",
+      "ori": "未公开",
+      "profession": "辅助",
+      "rarity": "3",
+      "ray": "未公开"
+    },
+    {
+      "childcar": "守护者",
+      "faction": "乌萨斯-乌萨斯学生自治团",
+      "name": "古米",
+      "ori": "乌萨斯",
+      "profession": "重装",
+      "rarity": "3",
+      "ray": "乌萨斯"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "哥伦比亚",
+      "name": "蛇屠箱",
+      "ori": "未公开",
+      "profession": "重装",
+      "rarity": "3",
+      "ray": "匹特拉姆"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "角峰",
+      "ori": "谢拉格",
+      "profession": "重装",
+      "rarity": "3",
+      "ray": "丰蹄"
+    },
+    {
+      "childcar": "群愈师",
+      "faction": "罗德岛",
+      "name": "调香师",
+      "ori": "米诺斯",
+      "profession": "医疗",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "嘉维尔",
+      "ori": "未公开",
+      "profession": "医疗",
+      "rarity": "3",
+      "ray": "阿达克利斯"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "末药",
+      "ori": "未公开",
+      "profession": "医疗",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "钩索师",
+      "faction": "炎-龙门",
+      "name": "暗索",
+      "ori": "雷姆必拓",
+      "profession": "特种",
+      "rarity": "3",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "处决者",
+      "faction": "卡西米尔",
+      "name": "砾",
+      "ori": "卡西米尔",
+      "profession": "特种",
+      "rarity": "3",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "术战者",
+      "faction": "维多利亚",
+      "name": "慕斯",
+      "ori": "维多利亚",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "强攻手",
+      "faction": "萨尔贡",
+      "name": "艾丝黛尔",
+      "ori": "未公开",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "阿达克利斯"
+    },
+    {
+      "childcar": "领主",
+      "faction": "罗德岛",
+      "name": "霜叶",
+      "ori": "哥伦比亚",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "东",
+      "name": "缠丸",
+      "ori": "东国",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "鬼"
+    },
+    {
+      "childcar": "教官",
+      "faction": "罗德岛",
+      "name": "杜宾",
+      "ori": "玻利瓦尔",
+      "profession": "近卫",
+      "rarity": "3",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "哥伦比亚",
+      "name": "红豆",
+      "ori": "卡兹戴尔",
+      "profession": "先锋",
+      "rarity": "3",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "罗德岛-S.W.E.E.P.",
+      "name": "清道夫",
+      "ori": "未公开",
+      "profession": "先锋",
+      "rarity": "3",
+      "ray": "札拉克"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "谢拉格-喀兰贸易",
+      "name": "讯使",
+      "ori": "谢拉格",
+      "profession": "先锋",
+      "rarity": "3",
+      "ray": "依特拉"
+    },
+    {
+      "childcar": "炮手",
+      "faction": "东",
+      "name": "白雪",
+      "ori": "东国",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "阿纳缇"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "卡西米尔",
+      "name": "流星",
+      "ori": "卡西米尔",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "哥伦比亚-黑钢国际",
+      "name": "杰西卡",
+      "ori": "维多利亚",
+      "profession": "狙击",
+      "rarity": "3",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "萨米",
+      "name": "远山",
+      "ori": "萨米",
+      "profession": "术师",
+      "rarity": "3",
+      "ray": "埃拉菲亚"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "维多利亚",
+      "name": "夜烟",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "3",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "凝滞师",
+      "faction": "罗德岛-行动预备组A6",
+      "name": "梓兰",
+      "ori": "哥伦比亚",
+      "profession": "辅助",
+      "rarity": "2",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "罗德岛-行动预备组A4",
+      "name": "史都华德",
+      "ori": "谢拉格",
+      "profession": "术师",
+      "rarity": "2",
+      "ray": "沃尔珀"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛-行动预备组A4",
+      "name": "安赛尔",
+      "ori": "雷姆必拓",
+      "profession": "医疗",
+      "rarity": "2",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛-行动预备组A1",
+      "name": "芙蓉",
+      "ori": "维多利亚",
+      "profession": "医疗",
+      "rarity": "2",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "罗德岛-行动预备组A1",
+      "name": "炎熔",
+      "ori": "维多利亚",
+      "profession": "术师",
+      "rarity": "2",
+      "ray": "萨卡兹"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "罗德岛-行动预备组A4",
+      "name": "安德切尔",
+      "ori": "拉特兰",
+      "profession": "狙击",
+      "rarity": "2",
+      "ray": "萨科塔"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "罗德岛-行动预备组A1",
+      "name": "克洛丝",
+      "ori": "雷姆必拓",
+      "profession": "狙击",
+      "rarity": "2",
+      "ray": "卡特斯"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "罗德岛-行动预备组A1",
+      "name": "米格鲁",
+      "ori": "玻利瓦尔",
+      "profession": "重装",
+      "rarity": "2",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "罗德岛-行动预备组A4",
+      "name": "卡缇",
+      "ori": "莱塔尼亚",
+      "profession": "重装",
+      "rarity": "2",
+      "ray": "佩洛"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "罗德岛-行动预备组A4",
+      "name": "玫兰莎",
+      "ori": "维多利亚",
+      "profession": "近卫",
+      "rarity": "2",
+      "ray": "菲林"
+    },
+    {
+      "childcar": "冲锋手",
+      "faction": "拉特兰",
+      "name": "翎羽",
+      "ori": "拉特兰",
+      "profession": "先锋",
+      "rarity": "2",
+      "ray": "黎博利"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "哥伦比亚-黑钢国际",
+      "name": "香草",
+      "ori": "瓦伊凡",
+      "profession": "先锋",
+      "rarity": "2",
+      "ray": "瓦伊凡"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "罗德岛-行动预备组A1",
+      "name": "芬",
+      "ori": "卡西米尔",
+      "profession": "先锋",
+      "rarity": "2",
+      "ray": "库兰塔"
+    },
+    {
+      "childcar": "扩散术师",
+      "faction": "罗德岛",
+      "name": "12F",
+      "ori": "不明",
+      "profession": "术师",
+      "rarity": "1",
+      "ray": "萨弗拉"
+    },
+    {
+      "childcar": "中坚术师",
+      "faction": "罗德岛-行动组A4",
+      "name": "杜林",
+      "ori": "未公开",
+      "profession": "术师",
+      "rarity": "1",
+      "ray": "杜林"
+    },
+    {
+      "childcar": "速射手",
+      "faction": "罗德岛-行动组A4",
+      "name": "巡林者",
+      "ori": "未公开",
+      "profession": "狙击",
+      "rarity": "1",
+      "ray": "萨弗拉"
+    },
+    {
+      "childcar": "铁卫",
+      "faction": "罗德岛-行动组A4",
+      "name": "黑角",
+      "ori": "东国",
+      "profession": "重装",
+      "rarity": "1",
+      "ray": "鬼"
+    },
+    {
+      "childcar": "尖兵",
+      "faction": "罗德岛-行动组A4",
+      "name": "夜刀",
+      "ori": "东国",
+      "profession": "先锋",
+      "rarity": "1",
+      "ray": "鬼"
+    },
+    {
+      "childcar": "无畏者",
+      "faction": "罗德岛",
+      "name": "Castle-3",
+      "ori": "",
+      "profession": "近卫",
+      "rarity": "0",
+      "ray": ""
+    },
+    {
+      "childcar": "医师",
+      "faction": "罗德岛",
+      "name": "Lancet-2",
+      "ori": "",
+      "profession": "医疗",
+      "rarity": "0",
+      "ray": ""
+    }
+  ]
+}
