@@ -1,6 +1,6 @@
 <footer>
 	<p>
-		Sudoku Game By <a href="https://sevmeowple.github.io" style="color:pink">SevMeowple </a>
+		Arkrun Game By <a href="https://sevmeowple.github.io" style="color:pink">SevMeowple </a>
 		<a href="https://github.com/sevmeowple" class="git_a">
 			<button type="button" class="btn-github btn-icon variant-filled btn-icon-sm"
 				><svg
