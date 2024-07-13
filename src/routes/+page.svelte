@@ -2,6 +2,7 @@
 	import { randomArrayItem, similarOp } from '$lib';
 	import { ray, profession, faction, rarity, ori, childcar } from '$lib';
 	import { onMount } from 'svelte';
+	import Footer from '$lib/Footer.svelte';
 	let user_ray = '';
 	type ChildcarKey = '先锋' | '近卫' | '重装' | '狙击' | '术师' | '医疗' | '辅助' | '特种' | '';
 
@@ -42,6 +43,7 @@
 </script>
 
 <main>
+	<Footer />
 	<div class="operator_main">
 		<p>
 			你是出生在{user_ori}现隶属于{user_faction}阵营的{user_ray},你的职业是{user_rar}星{user_pro}。
