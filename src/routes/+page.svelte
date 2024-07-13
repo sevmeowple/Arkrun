@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-	import { randomArrayItem, similarOp } from '$lib';
+	import { randomArrayItem, similarOp, randomStar } from '$lib';
 	import { ray, profession, faction, rarity, ori, childcar } from '$lib';
 	import { onMount } from 'svelte';
 	import Footer from '$lib/Footer.svelte';
@@ -19,7 +19,7 @@
 		user_ray = randomArrayItem(ray);
 		user_pro = randomArrayItem(profession) as ChildcarKey;
 		user_faction = randomArrayItem(faction);
-		user_rar = randomArrayItem(rarity);
+		user_rar = randomStar();
 		user_ori = randomArrayItem(ori);
 		// childcar对应的是职业，所以要根据职业来随机
 		// childcar是一个对象,每个键值对对应的值是数组

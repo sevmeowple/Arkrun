@@ -172,6 +172,22 @@ const ori = [
 function randomArrayItem(arr: string[]) {
 	return arr[Math.floor(Math.random() * arr.length)];
 }
+// 因为星级分布并不是很平均,所以按照123,45,6三组随机后再随机
+function randomStar() {
+	const r = Math.random();
+	let star = 0;
+	if (r < 0.3) {
+		// 返回1,2,3中随机一个
+		star = Math.floor(Math.random() * 3) + 1;
+	} else if (r < 0.6) {
+		// 返回4,5中随机一个
+		star = Math.floor(Math.random() * 2) + 4;
+	} else {
+		// 返回6
+		star = 6;
+	}
+	return star.toString();
+}
 
 async function dataRead() {
 	// 读取$lib/opdata.json的数据
@@ -264,6 +280,6 @@ async function similarOp(user: any) {
 	return simop.slice(0, 3);
 }
 
-export { randomArrayItem, similarOp };
+export { randomArrayItem, similarOp,randomStar };
 // 常数导出
 export { ray, profession, faction, rarity, ori, childcar };
