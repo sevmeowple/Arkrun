@@ -168,6 +168,73 @@ const ori = [
 	'未知',
 	'其他'
 ];
+// 六维但是描述都是一样的
+const six = ['其他', '卓越', '优良', '标准', '普通', '缺陷'];
+// 感染状况
+const condition = [
+	'参照医学检测报告，确认为感染者。',
+	'参照医学检测报告，确认为非感染者 。',
+	'体表未发现任何源石结晶，确认为非感染者。',
+	'体表有源石结晶分布，参照医学检测报告，确认为感染者。',
+	'体内脏器 有可见源石结晶阴影，确认为感染者。',
+	'作为一个萨卡兹，没有被感染是一种幸运，同时也是种不幸。',
+	'参照医学检 测报告，干员应为感染者。',
+	'体表有源石结晶分布，且参照医学检测报告，确认为感染者。',
+	'该干员 的感染症状较为特殊，需要进行进一步的临床研究。',
+	'体表有源石结晶分布，确认为感染者。',
+	'体表无源石结晶分布，体内有可见 阴影，参照医学检测报告，确认为感染者。',
+	'体表无源石结晶分布，且参照医学检测报告，确认为非感染者。',
+	'外壳有大 量磨损，结构完整，强度正常。发动机与底盘状况良好。攻击设备运行正常，电池外壳有轻微损坏，使用正常。ECU状况良好。',
+	'外壳有少量磨损，结构完整，强度正常。发动机与底盘状况良好。医疗设备运 行正常，医疗消耗品已更替完毕。ECU状况良好。',
+	'源石结晶分布于体内， 参照医学检测报告，确认为感染者。',
+	'参照医学检测报告，确认为非感染者',
+	'外壳有少量磨损，结构完整，强度正常。 发动机与底盘状况良好。攻击设备运行正常，储能装置已填充满，使用正常。ECU状况 良好。',
+	'源石结晶分布于体内，且参照医学检测报告，确认为感染者。',
+	'体表有少量源石 结晶分布，参照医学检测报告，确认为感染者。',
+	'经本人确认，该干员的所有档案移入高权限资料库。',
+	'外壳有少量磨损，结构完整，强度正常。发动机与底盘状况良好。 辅助系统运行正常，瞄准装置已校准。使用正常。ECU状况良好。',
+	'该干员的感染症状较为特殊，对其开展的临床研究仍在继续。',
+	'外壳有少量磨损，结构完整，强度超过正常标准。发动机与底盘状况良好。能量防 护系统运行正常，数据库已更新，使用正常。ECU状况良好。'
+];
+
+// 上面data的一个type
+interface Data {
+	datasets: {
+		data: number[];
+		backgroundColor: string[];
+		label: string;
+	}[];
+	labels: string[];
+}
+
+function randomSix() {
+	// 返回一个随机数,成驼峰状分布,范围从0-100
+	// 其中到0-50的概率占95%,50-75的概率占4%,75-100的概率占1%
+	// 45为概率极大点
+	const r = Math.random();
+	let six = 0;
+	if (r < 0.95) {
+		// 修正为0到50的范围
+		six = Math.floor(Math.random() * 51);
+	} else if (r < 0.99) {
+		// 保持50到75的范围不变
+		six = Math.floor(Math.random() * 25) + 50;
+	} else {
+		// 修正为75到100的范围
+		six = Math.floor(Math.random() * 26) + 75;
+	}
+	return six;
+}
+
+function changeData(data: Data, six: number[]) {
+	// 传入一个data对象和一个六维数组
+	// 返回一个新的data对象
+	// 用六维数组替换data里的data数组
+	const newdata = data;
+	newdata.datasets[0].data = six;
+	return newdata;
+}
+
 // 数组随机函数,传入一个数组,返回数组里一个随机的元素
 function randomArrayItem(arr: string[]) {
 	return arr[Math.floor(Math.random() * arr.length)];
@@ -276,10 +343,10 @@ async function similarOp(user: any) {
 	simop.sort((a, b) => {
 		return b.sim - a.sim;
 	});
-	// 返回相似度最高的三个干员
-	return simop.slice(0, 3);
+	// 返回相似度最高的一个干员
+	return [simop[0]];
 }
 
-export { randomArrayItem, similarOp,randomStar };
+export { randomArrayItem, similarOp, randomStar, randomSix,changeData };
 // 常数导出
-export { ray, profession, faction, rarity, ori, childcar };
+export { ray, profession, faction, rarity, ori, childcar, six, condition };
