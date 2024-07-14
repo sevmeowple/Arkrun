@@ -19,11 +19,11 @@
 				data: [10, 20, 30, 40, 50, 60],
 				backgroundColor: [
 					'rgba(255, 99, 132, 0.5)', // 物理强度 - 红色
-                'rgba(54, 162, 235, 0.5)', // 战场机动 - 蓝色
-                'rgba(75, 192, 192, 0.5)', // 生理耐受 - 绿色
-                'rgba(255, 206, 86, 0.5)', // 战术规划 - 黄色
-                'rgba(153, 102, 255, 0.5)', // 战术技巧 - 紫色
-                'rgba(255, 159, 64, 0.5)' // 源石技艺适应性 - 橙色
+					'rgba(54, 162, 235, 0.5)', // 战场机动 - 蓝色
+					'rgba(75, 192, 192, 0.5)', // 生理耐受 - 绿色
+					'rgba(255, 206, 86, 0.5)', // 战术规划 - 黄色
+					'rgba(153, 102, 255, 0.5)', // 战术技巧 - 紫色
+					'rgba(255, 159, 64, 0.5)' // 源石技艺适应性 - 橙色
 				],
 				label: '' // for legend
 			}
@@ -125,7 +125,7 @@
 	onMount(() => {});
 </script>
 
-<main>
+<main class="main">
 	<div class="operator_main">
 		<p>
 			你是出生在{user_ori}现隶属于{user_faction}阵营的{user_ray},你的职业是{user_rar}星{user_pro}。
@@ -133,12 +133,14 @@
 		<p>你的子职业是{user_childcar}</p>
 		<p>{user_condition}</p>
 		<button class="btn variant-soft btn_ma" on:click={randomUser}>再次转生</button>
-		<div class="operator_side">
+		<div
+			class="operator_side snap-x scroll-px-4 snap-mandatory scroll-smooth flex gap-4 overflow-x-auto"
+		>
 			{#if show}
-				<div>
+				<div class="snap-start card shrink-0 md:w-80 text-center">
 					<PolarArea class="myChart chart" {data} {options} />
 				</div>
-				<div class="operator_cards">
+				<div class="operator_cards snap-start shrink-0 md:w-80 text-center">
 					{#each Similar as item}
 						<div class="card p-4 card-hover block operator_card">
 							<header class="card-header">
@@ -160,8 +162,10 @@
 			{/if}
 		</div>
 	</div>
-	<Footer />
 </main>
+<footer>
+	<Footer />
+</footer>
 
 <style>
 	main {
@@ -169,6 +173,9 @@
 		flex-direction: column;
 		align-items: center;
 		height: 92vh;
+	}
+	.main {
+		height: 97vh;
 	}
 	/* 垂直居中 */
 	.operator_main {
@@ -195,8 +202,8 @@
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: center;
-		max-width: 50%;
-		flex: 1;
+		/* max-width: 50%; */
+		/* flex: 1; */
 	}
 	.chart {
 		max-width: 50%;

@@ -55,4 +55,10 @@
 	footer button {
 		margin: 0 10px;
 	}
+	/* footer放到整个页面的最下面 */
+	footer {
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
 </style>
