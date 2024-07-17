@@ -1,6 +1,16 @@
 <script lang="ts" setup>
-	import { randomArrayItem, similarOp, randomStar, randomSix, changeData } from '$lib';
+	import {
+		randomArrayItem,
+		similarOp,
+		randomStar,
+		randomSix,
+		changeData,
+		talentRead,
+		randomTalent
+	} from '$lib';
 	import { ray, profession, faction, rarity, ori, childcar, six, condition } from '$lib';
+	// 类导入
+	import { type Talent } from '$lib';
 	import { onMount } from 'svelte';
 	import {
 		Chart as ChartJS,
@@ -12,6 +22,7 @@
 	} from 'chart.js';
 	import { PolarArea } from 'svelte-chartjs';
 	import Footer from '$lib/Footer.svelte';
+	let talents: [] = [];
 	ChartJS.register(Title, Tooltip, Legend, ArcElement, RadialLinearScale);
 	let data = {
 		datasets: [
@@ -91,9 +102,13 @@
 	// 六维
 	let user_six: number[] = [];
 	let user = {};
+	let usr_talent: Talent = {
+		name: '',
+		description: ''
+	};
 	let Similar: string | any[] = [];
 	let show = false;
-	function randomUser() {
+	async function randomUser() {
 		user_ray = randomArrayItem(ray);
 		user_pro = randomArrayItem(profession) as ChildcarKey;
 		user_faction = randomArrayItem(faction);
@@ -107,12 +122,15 @@
 		// childcar是一个对象,每个键值对对应的值是数组
 		// 通过职业来获取对应的数组
 		user_childcar = randomArrayItem(childcar[user_pro]);
+		// 这是一个异步函数，所以要等待talentRead函数执行完毕
+		usr_talent = await randomTalent();
 		user = {
 			ray: user_ray,
 			profession: user_pro,
 			faction: user_faction,
 			rarity: user_rar,
-			ori: user_ori
+			ori: user_ori,
+			talent: usr_talent
 		};
 		data = changeData(data, user_six);
 		// show = false;
@@ -122,7 +140,12 @@
 		Similar = await similarOp(user);
 		show = true;
 	}
-	onMount(() => {});
+	onMount(() => {
+		console.log(talents);
+		if (!talents) {
+			console.log('talents is null');
+		}
+	});
 </script>
 
 <main class="main">
@@ -131,6 +154,7 @@
 			你是出生在{user_ori}现隶属于{user_faction}阵营的{user_ray},你的职业是{user_rar}星{user_pro}。
 		</p>
 		<p>你的子职业是{user_childcar}</p>
+		<p>天赋：{usr_talent.name} {usr_talent.description}</p>
 		<p>{user_condition}</p>
 		<button class="btn variant-soft btn_ma" on:click={randomUser}>再次转生</button>
 		<div

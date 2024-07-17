@@ -16,6 +16,11 @@ interface All {
 	'1': CharacterData[];
 	'2': CharacterData[];
 }
+
+interface Talent {
+	name: string;
+	description: string;
+}
 // 一些常数
 // 稀有度
 const rarity = ['1', '2', '3', '4', '5', '6'];
@@ -239,6 +244,17 @@ function changeData(data: Data, six: number[]) {
 function randomArrayItem(arr: string[]) {
 	return arr[Math.floor(Math.random() * arr.length)];
 }
+async function randomTalent() {
+	// 直接读取talents.json
+	// 等待读取完异步函数数据再返回
+	const data = await talentRead();
+	// 随机返回一个天赋
+	// console.log(data)
+	const talent = data[Math.floor(Math.random() * data.length)];	// 去除talent的的desctiption字符串里所有的<>及其内部的内容
+	talent.description = talent.description.replace(/<[^>]*>/g, '');
+
+	return talent;
+}
 // 因为星级分布并不是很平均,所以按照123,45,6三组随机后再随机
 function randomStar() {
 	const r = Math.random();
@@ -261,6 +277,19 @@ async function dataRead() {
 	// 使用fetch
 	// 返回一个json对象
 	const data: All = await fetch(`${base}/opdata.json`)
+		.then((response) => response.json())
+		.then((data) => {
+			return data; // 确保返回数据
+		})
+		.catch((error) => console.log(error));
+	return data;
+}
+
+async function talentRead() {
+	// 读取$lib/opdata.json的数据
+	// 使用fetch
+	// 返回一个json对象
+	const data: Talent[] = await fetch(`${base}/talents.json`)
 		.then((response) => response.json())
 		.then((data) => {
 			return data; // 确保返回数据
@@ -346,7 +375,17 @@ async function similarOp(user: any) {
 	// 返回相似度最高的一个干员
 	return [simop[0]];
 }
-
-export { randomArrayItem, similarOp, randomStar, randomSix,changeData };
+export {
+	randomArrayItem,
+	similarOp,
+	randomStar,
+	randomSix,
+	changeData,
+	dataRead,
+	talentRead,
+	randomTalent
+};
 // 常数导出
 export { ray, profession, faction, rarity, ori, childcar, six, condition };
+// 类导出
+export type { Data, CharacterData, All, Talent };
