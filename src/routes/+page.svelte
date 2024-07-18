@@ -106,6 +106,10 @@
 		name: '',
 		description: ''
 	};
+	let usr_talent2: Talent = {
+		name: '',
+		description: ''
+	};
 	let Similar: string | any[] = [];
 	let show = false;
 	async function randomUser() {
@@ -124,13 +128,15 @@
 		user_childcar = randomArrayItem(childcar[user_pro]);
 		// 这是一个异步函数，所以要等待talentRead函数执行完毕
 		usr_talent = await randomTalent();
+		if (user_rar == '5' || user_rar == '6') usr_talent2 = await randomTalent();
 		user = {
 			ray: user_ray,
 			profession: user_pro,
 			faction: user_faction,
 			rarity: user_rar,
 			ori: user_ori,
-			talent: usr_talent
+			talent: usr_talent,
+			talent_2: usr_talent2
 		};
 		data = changeData(data, user_six);
 		// show = false;
@@ -154,7 +160,10 @@
 			你是出生在{user_ori}现隶属于{user_faction}阵营的{user_ray},你的职业是{user_rar}星{user_pro}。
 		</p>
 		<p>你的子职业是{user_childcar}</p>
-		<p>天赋：{usr_talent.name} {usr_talent.description}</p>
+		<p>天赋一：{usr_talent.name} {usr_talent.description}</p>
+		{#if user_rar == '5' || user_rar == '6'}
+			<p>天赋二:{usr_talent2.name} {usr_talent2.description}</p>
+		{/if}
 		<p>{user_condition}</p>
 		<button class="btn variant-soft btn_ma" on:click={randomUser}>再次转生</button>
 		<div
