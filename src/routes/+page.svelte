@@ -22,6 +22,9 @@
 	} from 'chart.js';
 	import { PolarArea } from 'svelte-chartjs';
 	import Footer from '$lib/Footer.svelte';
+	import Range from '$lib/Range.svelte';
+	let resetRange = false;
+
 	let talents: [] = [];
 	ChartJS.register(Title, Tooltip, Legend, ArcElement, RadialLinearScale);
 	let data = {
@@ -139,6 +142,7 @@
 			talent_2: usr_talent2
 		};
 		data = changeData(data, user_six);
+		resetRange = !resetRange;
 		// show = false;
 		simOp();
 	}
@@ -172,6 +176,9 @@
 			{#if show}
 				<div class="snap-start card shrink-0 md:w-80 text-center">
 					<PolarArea class="myChart chart" {data} {options} />
+				</div>
+				<div class="card snap-start shrink-0 text-center">
+					<Range {resetRange}/>
 				</div>
 				<div class="operator_cards snap-start shrink-0 md:w-80 text-center">
 					{#each Similar as item}
